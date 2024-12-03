@@ -61,6 +61,7 @@ Developed by: M. KISHORE
 RegisterNumber:24900763
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![Screenshot 2024-12-03 143915](https://github.com/user-attachments/assets/ee809f3a-8b1a-4b1b-992c-0268a7fe2cf5)
 
 
@@ -69,6 +70,7 @@ RegisterNumber:24900763
 ![Screenshot (31)](https://github.com/user-attachments/assets/eac3512e-2e33-4bbc-bd6d-2c1874f1a1ab)
 
 **RESULTS**
+
 Thus the Encoder 8 To 3 is designed and the truth tables is verified using Quartus software.
 
 
